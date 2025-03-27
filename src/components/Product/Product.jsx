@@ -6,7 +6,7 @@ import CountryFlag from '../CountryFlag';
 
 const Product = () => {
     const [ products , setProducts ] = useState([
-        { id: "1", image: "/img/f1.jpg", prenom: "Adidas", desc: "Cartoon Astronaut T-Shirt", prix: "43CFA" },
+        { id: "1", image: "img/f1.jpg", prenom: "Adidas", desc: "Cartoon Astronaut T-Shirt", prix: "43CFA" },
         { id: "2", image: "/img/f2.jpg", prenom: "Nike", desc: "Cartoon Astronaut T-Shirt", prix: "43CFA" },
         { id: "3", image: "/img/f3.jpg", prenom: "Jordan", desc: "Cartoon Astronaut T-Shirt", prix: "43CFA" },
         { id: "4", image: "/img/f4.jpg", prenom: "Aire max", desc: "Cartoon Astronaut T-Shirt", prix: "43CFA" }
