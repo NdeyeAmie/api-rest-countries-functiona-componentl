@@ -4,7 +4,7 @@ function ProductDetail() {
   return (
     <section id="prodetails" class="section-p1">
     <div class="single-pro-image">
-        <img src="/img/f1.jpg" width="100%" id="MainImg" alt=""/>
+        <img src="/img/f1.jpg" width="100%" id="MainImg" alt="imag"/>
 
         <div class="small-img-group">
         <div class="small-img-col">
